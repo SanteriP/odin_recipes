@@ -1,4 +1,37 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+    max-width: 600px;
+    margin: auto;
+}
+
 img {
     height: auto;
-    width: 500px;
+    width: 400px;
+}
+
+div {
+    background-color: gold;
+    color: black;
+    width: 400px;
+    height: 40px;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    color: gold;
+}
+
+p,
+li {
+    color: gold;
+    padding-bottom: 10px;
+}
+
+a {
+    color: gold;
 }
